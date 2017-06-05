@@ -1,0 +1,9 @@
+{
+    "require": {
+        "slim/slim": "^3.0",
+        "chadicus/slim-oauth2": "^3.1",
+        "tuupola/slim-basic-auth": "^2.2",
+        "tuupola/slim-jwt-auth": "^2.3"
+    }
+
+}
